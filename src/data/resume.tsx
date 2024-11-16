@@ -185,9 +185,9 @@ export const DATA = {
       ],
       links: [
         {
-          type: "WIP",
-          href: "",
-          icon: <Icons.globe className="size-3" />,
+          type: "Source",
+          href: "https://github.com/Inhorni",
+          icon: <Icons.github className="size-3" />,
         },
       ],
       image: "/proje3.png",

@@ -42,7 +42,7 @@ export const DATA = {
       },
       X: {
         name: "X",
-        url: "https://dub.sh/dillion-twitter",
+        url: "https://de.linkedin.com/in/nick-stettnisch-50794128b",
         icon: Icons.x,
 
         navbar: false,
@@ -80,9 +80,9 @@ export const DATA = {
   ],
   education: [
     {
-      school: "Wirtschafts Akademie Nord greifswald",
+      school: "Wirtschafts Akademie Nord Greifswald",
       href: "https://www.wa-nord.de",
-      degree: "Technischer Assistent",
+      degree: "Technischer Assistent für Informatik",
       logoUrl: "/wanord.png",
       start: "2022",
       end: "2024",

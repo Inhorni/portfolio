@@ -20,6 +20,7 @@ export const DATA = {
     "MySQL"
   ],
   navbar: [
+    { href: "/", icon: HomeIcon, label: "Home" },
   ],
   contact: {
     email: "nickstettnisch@gmail.com",

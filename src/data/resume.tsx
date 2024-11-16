@@ -8,7 +8,7 @@ export const DATA = {
   location: "Anklam, MV",
   locationLink: "",
   description:
-    "Berufseinsteigender Anwendungsentwickler mit Fokus auf Web-Entwicklung. Und hobbymäßiger Sysyemintegrator",
+    "Berufseinsteigender Anwendungsentwickler mit Fokus auf Web-Entwicklung. Und hobbymäßiger Systemintegrator",
   summary:
     "Schulische Ausbildung beendet am 1.09.2024 | Momentan auf Job suche",
   avatarUrl: "/me.png",

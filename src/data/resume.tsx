@@ -15,6 +15,8 @@ export const DATA = {
   skills: [
     "React",
     "Next.js",
+    "Symphony",
+    "PHP",
     "HTML",
     "CSS",
     "MySQL"

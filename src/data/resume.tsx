@@ -147,7 +147,7 @@ export const DATA = {
       video: "",
     },
     {
-      title: "Pestalotzi Schule Dermin",
+      title: "Pestalotzi Schule Demmin",
       href: "https://github.com/Armooooon/Schulwebsite",
       dates: "Juni 2024 - August 2024",
       active: true,

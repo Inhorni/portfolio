@@ -112,7 +112,7 @@ export const DATA = {
   ],
   projects: [
     {
-      title: "Schmiede Blecken (Schulprojekt)",
+      title: "Schmiede Blecken",
       href: "https://github.com/Inhorni/SchmiedeBlecken",
       dates: "Oktober 2023 - November 2023",
       active: true,

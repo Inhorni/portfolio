@@ -144,6 +144,7 @@ export const DATA = {
       technologies: [
         "Angular.js",
         "Shopware",
+        "SASS",
         "Linux Server",
         "HTML",
         "CSS",

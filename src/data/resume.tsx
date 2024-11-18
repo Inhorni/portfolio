@@ -66,6 +66,18 @@ export const DATA = {
   },
 
   work: [
+        {
+      company: "ED-EL Großschlachterei und Fleischhandel GmbH",
+      href: "#",
+      badges: [],
+      location: "Remote",
+      title: "Freiberufliches Projekt Webentwicklung",
+      logoUrl: "#",
+      start: "September 2024",
+      end: "November 2024",
+      description:
+        "Erstellung einer vollständig funktionsfähige Unternehmenswebsite mit Fokus auf Nutzerfreundlichkeit und responsivem Design.",
+    },
     {
       company: "GSWE GmbH",
       href: "https://gswe.de/",

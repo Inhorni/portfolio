@@ -96,7 +96,7 @@ export const DATA = {
     {
       school: "Wirtschafts Akademie Nord Greifswald",
       href: "https://www.wa-nord.de",
-      degree: "Technischer Assistent für Informatik",
+      degree: "Fachabitur Informatik",
       logoUrl: "/wanord.png",
       start: "2022",
       end: "2024",

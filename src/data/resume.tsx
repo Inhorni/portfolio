@@ -69,6 +69,18 @@ export const DATA = {
   },
 
   work: [
+            {
+      company: "Buchwardt und Shabo GmbH",
+      href: "https://www.hellosystem.de/",
+      badges: [],
+      location: "Greifswald DE",
+      title: "Fachinformatiker",
+      logoUrl: "#",
+      start: "April 2025",
+      end: "Juni 2025",
+      description:
+        "Erstellung einer vollständig funktionsfähige Unternehmenswebsite mit Fokus auf Nutzerfreundlichkeit und responsivem Design.",
+    },
         {
       company: "ED-EL Großschlachterei und Fleischhandel GmbH",
       href: "#",

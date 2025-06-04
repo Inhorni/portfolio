@@ -79,7 +79,7 @@ export const DATA = {
       start: "April 2025",
       end: "Juni 2025",
       description:
-        "Erstellung einer vollständig funktionsfähige Unternehmenswebsite mit Fokus auf Nutzerfreundlichkeit und responsivem Design.",
+        "Erstellung einer vollständig funktionsfähigen Unternehmenswebsite mit Fokus auf Nutzerfreundlichkeit und responsivem Design. Zusätzlich Betreuung von Kundenprojekten rund um Webseitenerstellung, technische Umsetzung sowie Konfiguration von DNS- und Hosting-Einstellungen.",
     },
         {
       company: "ED-EL Großschlachterei und Fleischhandel GmbH",

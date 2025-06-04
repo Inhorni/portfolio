@@ -8,7 +8,7 @@ export const DATA = {
   location: "Anklam, MV",
   locationLink: "",
   description:
-    "Berufseinsteiger im Bereich Anwendungsentwicklung mit Schwerpunkt Web-Entwicklung | Hobbymäßiger Systemintegrator",
+    "Berufseinsteiger im Bereich Anwendungsentwicklung mit Schwerpunkt Web-Entwicklung und Systemintegrator",
   summary:
     "Schulische Ausbildung beendet am 1.09.2024 | Momentan auf Job suche",
   avatarUrl: "/me.png",
@@ -19,7 +19,10 @@ export const DATA = {
     "PHP",
     "HTML",
     "CSS",
-    "MySQL"
+    "MySQL",
+    "Wordpress",
+    "Google Analytics",
+    "Google Tagging"
   ],
   navbar: [
     { href: "/", icon: HomeIcon, label: "Home" },
@@ -206,6 +209,58 @@ export const DATA = {
         },
       ],
       image: "/proje3.png",
+      video:
+        "",
+    },
+            {
+      title: "ShineOnYoga",
+      href: "",
+      dates: "Mai 2025 - Juni 2025",
+      active: true,
+      description:
+        "Konzeption und Umsetzung einer modernen Website für eine Yogaschule im Raum Greifswald. Ziel war es, Ruhe, Achtsamkeit und Professionalität digital erfahrbar zu machen und sowohl neue Teilnehmer als auch langjährige Yogis anzusprechen",
+      technologies: [
+        "Wordpress",
+        "CSS",
+        "Elementor",
+        "HTML",
+        "Google Analytics",
+        "Google Tags",
+      ],
+      links: [
+        {
+          type: "Website",
+          href: "https://www.shineonyoga.de/",
+          icon: <Icons.globe className="size-3" />,
+        },
+      ],
+      image: "/projectyoga.png",
+      video:
+        "",
+    },
+                {
+      title: "HelloSystem",
+      href: "",
+      dates: "Mai 2025 - Juni 2025",
+      active: true,
+      description:
+        "Konzeption und Umsetzung einer schlanken, überzeugenden Homepage für eine spezialisierte Unternehmensberatung in Greifswald. Ziel war es, Expertise, Branchenfokus und individuelle Lösungsansätze übersichtlich und ansprechend darzustellen",
+      technologies: [
+        "Wordpress",
+        "CSS",
+        "Elementor",
+        "HTML",
+        "Google Analytics",
+        "Google Tags",
+      ],
+      links: [
+        {
+          type: "Website",
+          href: "https://www.hellosystem.de/",
+          icon: <Icons.globe className="size-3" />,
+        },
+      ],
+      image: "/projecthello.png",
       video:
         "",
     },

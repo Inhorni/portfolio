@@ -224,32 +224,6 @@ export const DATA = {
       video:
         "",
     },
-            {
-      title: "ShineOnYoga",
-      href: "",
-      dates: "Mai 2025 - Juni 2025",
-      active: true,
-      description:
-        "Konzeption und Umsetzung einer modernen Website für eine Yogaschule im Raum Greifswald. Ziel war es, Ruhe, Achtsamkeit und Professionalität digital erfahrbar zu machen und sowohl neue Teilnehmer als auch langjährige Yogis anzusprechen",
-      technologies: [
-        "Wordpress",
-        "CSS",
-        "Elementor",
-        "HTML",
-        "Google Analytics",
-        "Google Tags",
-      ],
-      links: [
-        {
-          type: "Website",
-          href: "https://www.shineonyoga.de/",
-          icon: <Icons.globe className="size-3" />,
-        },
-      ],
-      image: "/projectyoga.png",
-      video:
-        "",
-    },
                 {
       title: "HelloSystem",
       href: "",
